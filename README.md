@@ -1,4 +1,4 @@
-# SpaceLaunchNews
+# LiveLaunch
 
 Devpost: https://devpost.com/software/livelaunch
 
