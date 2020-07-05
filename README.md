@@ -19,3 +19,4 @@ Clone this repo to your device. Download git lfs from https://git-lfs.github.com
 ## Demo
 
 https://youtu.be/mMwQLytgD0w
+![LiveLaunch Demo](LiveLaunchDemo.gif)
